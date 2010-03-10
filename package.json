@@ -1,6 +1,6 @@
 {
   "name" : "arg-parse",
-  "version" : "0.0.1",
+  "version" : "0.0.2beta",
   "description" : "A simple argument list parser that returns a settings object and can print a usage banner.",
   "author" : "Isaac Z. Schlueter <i@izs.me>",
   "directories" : { "lib" : "lib" },
